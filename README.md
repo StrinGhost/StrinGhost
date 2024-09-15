@@ -4,7 +4,7 @@
 
 ---
 
- # <img width=40 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp">**About Me**<img width=40 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp">
+ # About <br><img width=30 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp">**Me**<img width=30 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp">
 
 ### **Cybersecurity Enthusiast | Penetration Tester | Programmer  | Open to Collaboration 🌍** 
 
