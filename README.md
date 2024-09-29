@@ -1,10 +1,9 @@
 <img src="https://github.com/StrinGhost/StrinGhost/blob/main/%E2%98%86%20__Ghost.jpeg">
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=1600&height=150&duration=4000&lines=Hello+There!+StrinGhost+Here!+" /></h3>
-<img align="right" alt="Coding" width="120" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif">
 
 ---
-
- # About <br><img width=30 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp">**Me**<img width=30 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp">
+<img align="right" alt="hack" width="250" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif">
+ <h2><img width=100 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&size=50&duration=1&center=true&vCenter=true&pause=9&color=FFFFFF&width=435&lines=ABOUT+ME" width="500"/><img width=100 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp"><br><br><br><br><br><br></h2>
 
 ### **Cybersecurity Enthusiast | Penetration Tester | Programmer  | Open to Collaboration 🌍** 
 
