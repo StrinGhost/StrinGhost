@@ -1,10 +1,12 @@
-<img src="https://github.com/StrinGhost/StrinGhost/blob/main/%E2%98%86%20__Ghost.jpeg">
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=1600&height=150&duration=4000&lines=Hello+There!+StrinGhost+Here!+" /></h3>
+<img style='max-width: 100%; width: 100%;' align="center" src="https://github.com/StrinGhost/StrinGhost/blob/main/%E2%98%86%20__Ghost.jpeg">
+<h3 style='max-width: 100%; width: 100%;' align="center">
+ <img style='max-width: 100%; width: 100%;' align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=1600&height=150&duration=4000&lines=Hello+There!+StrinGhost+Here!+" /></h3>
 
 ---
-<img align="right" alt="hack" width="250" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif">
- <h2><img width=100 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&size=50&duration=1&center=true&vCenter=true&pause=9&color=FFFFFF&width=435&lines=ABOUT+ME" width="500"/><img width=100 src="https://github.com/StrinGhost/StrinGhost/blob/main/Sparkles.webp"><br><br><br><br><br><br></h2>
+<img style="max-width: 200px; width: 100%;display: flex; justify-content: center;" align="middle" alt="hack" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif">
+<img style="max-width: 100%; width: 100%;" src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&size=40&duration=1&center=true&vCenter=true&pause=9&width=435&lines=ABOUT+ME"/>
 
+---
 ### **Cybersecurity Enthusiast | Penetration Tester | Programmer  | Open to Collaboration 🌍** 
 
 Currently a high school student passionate about programming, cybersecurity, and hacking.
@@ -36,14 +38,13 @@ Currently a high school student passionate about programming, cybersecurity, and
 - Google Cybersecurity Professional Certificate
 - TryHackMe CTF solutions and badges
 
----
-
 # 📊 Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StrinGhost&theme=tokyonight)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StrinGhost&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrinGhost&theme=tokyonight)
-  [!["Typing SVG"](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=900&size=28&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+<img style="max-width: 100%; width: 100%;" src="https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=900&size=28&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D"/> 
+
 # 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/StrinGhost) : **StrinGhost** <br>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/StrinGhost)](https://github.com/StrinGhost): **StrinGhost** <br>
