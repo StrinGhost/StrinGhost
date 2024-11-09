@@ -12,16 +12,9 @@
 Currently a high school student passionate about programming, cybersecurity, and hacking.
 
 ## 🔧 Skills
-- **Languages**: Python, Bash, Linux
+- **Languages**: Python, Bash, C, JavaScript
 - **Tools & Frameworks**: Docker, SSH, AWS, Azure, Burp Suite, Metasploit, AI , Git
 
-## 🚀 Projects
-- **Escrow Flex**: An automated escrow bot on Telegram, ensuring safe transactions between buyers and sellers, preventing scams.
-
-- **Linux Ricing**: A single-command automated Bash script to set up my custom Kali environment, installing i3, Polybar, Neofetch, Alacritty, btop, picom, tmux, Rofi, and more.
-
-- **CTF Writeups**: Sharing solutions and techniques from the Capture The Flag (CTF) challenges I’ve solved.
-  
 ## 🌱 Currently Learning
 
 - All about IT and Security.
